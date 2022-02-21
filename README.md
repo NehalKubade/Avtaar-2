@@ -1,1 +1,9 @@
 # Avtaar-2
+![Screenshot (392)](https://user-images.githubusercontent.com/88080845/154965888-b0196dca-8647-4ce4-a204-b9537af3f229.png)
+![Screenshot (382)](https://user-images.githubusercontent.com/88080845/154965925-1b57f248-79eb-4db4-a4b8-d7a3e1e6f2a1.png)
+![Screenshot (383)](https://user-images.githubusercontent.com/88080845/154966157-1340f747-b64d-43d2-950e-f54c409e5029.png)
+![Screenshot (384)](https://user-images.githubusercontent.com/88080845/154966184-4153319b-b6e9-4c0c-9ceb-95094957031e.png)
+![Screenshot (389)](https://user-images.githubusercontent.com/88080845/154966216-b77aa76c-31fc-4753-ae30-b484dddec7e8.png)
+![Screenshot (388)](https://user-images.githubusercontent.com/88080845/154966235-4b271d3e-7b8d-4862-a595-5b1aeda0bfcc.png)
+![Screenshot (390)](https://user-images.githubusercontent.com/88080845/154966272-67167b54-ab12-49b3-8a21-7de665bedd68.png)
+![Screenshot (391)](https://user-images.githubusercontent.com/88080845/154966469-37a5f571-e5fe-4fba-8cc4-5e3665d255c7.png)
